@@ -22,9 +22,16 @@
 - rm <filename> <filename> - delete multiple files
 - rm -rf <directory> - delete directory
 - git status - status of the repo
+- git init - create a new git repository (one time per repo)
+- ls -a - to see all hidden folders
 
 ## What is Repository
 ![image](https://user-images.githubusercontent.com/105601246/226208120-3ebba3f0-6d39-4a94-81f3-58500f8dbfd5.png)
 
 ## What is git init
 ![image](https://user-images.githubusercontent.com/105601246/226214081-67d38817-8250-4861-9cd5-364c34c0c200.png)
+
+## Common Early Git Mistake
+![image](https://user-images.githubusercontent.com/105601246/226214468-f328c3c4-ad8b-47af-8330-9cf29c383fd0.png)
+![image](https://user-images.githubusercontent.com/105601246/226214557-d215db55-8f69-4ff9-a42d-2c9790740247.png)
+
