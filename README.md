@@ -35,3 +35,19 @@
 ![image](https://user-images.githubusercontent.com/105601246/226214468-f328c3c4-ad8b-47af-8330-9cf29c383fd0.png)
 ![image](https://user-images.githubusercontent.com/105601246/226214557-d215db55-8f69-4ff9-a42d-2c9790740247.png)
 
+## Git Stages 
+![image](https://user-images.githubusercontent.com/105601246/226324876-cfcc5fdf-da0e-49c5-96a3-2c5f0cfabb13.png)
+
+## What is Git add
+![image](https://user-images.githubusercontent.com/105601246/226326239-930cff1c-59e0-48de-87f7-bb27c7b3c919.png)
+
+## What is Git Commit
+![image](https://user-images.githubusercontent.com/105601246/226326378-af21f7f9-4a06-481d-a195-6ab4fe873d3f.png)
+![image](https://user-images.githubusercontent.com/105601246/226326709-cebc8ace-299a-4df5-81da-98b8422dfd61.png)
+![image](https://user-images.githubusercontent.com/105601246/226326958-7d171ea7-4dc8-4ab8-b7b6-3371f25eb916.png)
+
+
+
+
+
+
